@@ -1,4 +1,4 @@
-baseurl = "http://www.peregrinedunn.com" # Hostname (and path) to the root.
+baseurl = "https://www.peregrinedunn.com" # Hostname (and path) to the root.
 title = "Perry Dunn" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
@@ -11,14 +11,14 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 pygmentsUseClasses = true # new add
 
-# disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+disqusShortname = "peregrinedunn" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Perry Dunn" # Author's name.
-    info = "BUDDING DATA SCIENTIST AND SOFTWARE ENGINEER" # Author's job title or info.
+    info = "Busy Learning" # Author's job title or info.
     description = "Perry Dunn's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    # avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/bitmoji.png" # Contain the path of the optionnal avatar in the static folder.
 
     # footercontent = "Enter a text here." # Add footer content
     # fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
@@ -41,8 +41,8 @@ pygmentsUseClasses = true # new add
     snsShare = true # new add
     # Popular sns share
     # if you want add sns. please message!
-    enableTwitterShare = true  # new add
-    enableFacebookShare = true # new add
+    enableTwitterShare = false  # new add
+    enableFacebookShare = false # new add
     enableHatenaShare = false   # new add
     enableLineShare = false     # new add
 

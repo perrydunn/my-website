@@ -2,6 +2,7 @@
 draft = true
 date = {{ .Date }}
 title = ""
+summary = ""
 slug = "" 
 tags = []
 categories = []
