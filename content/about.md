@@ -1,18 +1,62 @@
 +++
-title = "About"
+title = "CV"
 slug = "about"
 thumbnail = "images/bitmoji.png"
 description = "about"
 +++
 
-Hi there, I'm Peregrine, or just "Perry" to keep things that little bit simpler.
-
 ##### Experience
 
-<blockquote><b>Currently searching for new opportunities in software development.</b></blockquote>
+<blockquote><b>An avid learner.</b></blockquote>
 
 <p style="text-align:left;margin-left:40px">
-    <b>Shifti (on hold)</b>
+    <b><i>Unnamed</i></b>
+    <span style="float:right;">
+        <i>Mar 2020 &ndash; Present</i>
+    </span>
+    <br>
+    <div style="margin-left:60px">
+        <i>Software Engineer</i>
+        <br>
+        <ul>
+            <li>Full-stack development of a sports app in my spare time (side-project).
+            <li>Full-stack Typescript (NodeJS backend; Angular frontend) with GraphQL API. Learning about web security (XSS, CSRF).
+        </ul>
+    </div>
+</p>
+<p style="text-align:left;margin-left:40px">
+    <b>EY</b>
+    <span style="float:right;">
+        <i>Jan 2020 &ndash; Present</i>
+    </span>
+    <br>
+    <div style="margin-left:60px">
+        <i>Software Engineer</i>
+        <br>
+        <ul>
+            <li>Full-stack development of a Tax SAAS product. Spring (Java) backend and Angular frontend.
+            <li>Also productionised a ML-enabled tax compliance service as a Flask (python) app.
+            <li>Fostering collaboration and knowledge sharing via pair-programming and presentations/mini-workshops.
+        </ul>
+    </div>
+</p>
+<p style="text-align:left;margin-left:40px">
+    <b><i>Time out</i></b>
+    <span style="float:right;">
+        <i>Sep 2020 &ndash; Dec 2020</i>
+    </span>
+    <br>
+    <div style="margin-left:60px">
+        <i>Studying and Applying</i>
+        <br>
+        <ul>
+            <li>Studying to make the transition into software engineering.
+            <li>And enjoying some time out!
+        </ul>
+    </div>
+</p>
+<p style="text-align:left;margin-left:40px">
+    <b>Shifti</b>
     <span style="float:right;">
         <i>Feb 2019 &ndash; Aug 2019</i>
     </span>
@@ -58,7 +102,7 @@ Hi there, I'm Peregrine, or just "Perry" to keep things that little bit simpler.
 
 ##### Education
 
-<blockquote>I'm a big fan of online courses, especially those offered on Coursera.</blockquote>
+<blockquote>I'm a big fan of online courses and textbooks.</blockquote>
 
 <p style="text-align:left;margin-left:40px">
     <b>University of Cambridge, Queens' College</b>
@@ -97,7 +141,9 @@ Hi there, I'm Peregrine, or just "Perry" to keep things that little bit simpler.
             <li>Functional Programming in Scala by EPFL
                 <ol>
                     <li>Functional Progamming Principles in Scala
+                    <li>Functional Program Design in Scala
                 </ol>
+            <li><i>(in progress)</i> Programming Reactive Systems by EPFL
         </ul>
     </div>
 </p>
@@ -111,6 +157,7 @@ Hi there, I'm Peregrine, or just "Perry" to keep things that little bit simpler.
                     <li>M001: MongoDB Basics
                     <li>M201: MongoDB Performance
                     <li>M220P: MongoDB for Python Developers
+                    <li><i>(in progress)</i> M320: MongoDB Data Modelling
                 </ul>
         </ul>
     </div>
@@ -132,10 +179,10 @@ Hi there, I'm Peregrine, or just "Perry" to keep things that little bit simpler.
         </ul>
     </div>
     <div style="margin-left:40px">
-        <b>Tennis:</b> Active member of Campden Hill LTC, and yeah, I play a single-handed backhand ("It's more natural").
+        <b>Tennis:</b> Active member of Campden Hill LTC.
         <br>
-        <b>Learning:</b> See above! But also other things... I'm trying to de-rust my French and also learn Rust.
+        <b>Learning:</b> Just keep learning... French, data science, and Rust, Go and a little Haskell by following <a href="http://learnyouahaskell.com/chapters" style="font-weight: normal;"><i>Learn You a Haskell for Great Good!</i></a>
         <br>
-        <b>Reading:</b> Currently reading Max Hasting's <i>Vietnam</i>. Before that I read Bill Browder's <i>Red Notice</i>.
+        <b>Reading:</b> And just keep reading, from <i>Homage to Catalonia</i> to <i>Brotopia</i> via <i>Fermat's Last Theorem</i>.
     </div>
 </p>
